@@ -1,0 +1,34 @@
+.breadcrumb-area {
+    background: linear-gradient(rgba(0,0,0,.65) 100%,rgba(0,0,0,.65) 0),url('../../images/breadcrumb.png');
+    background-size: cover;
+    min-height: 320px;
+    display: flex;
+    align-items: center;
+}
+.breadcrumb-area h2{
+    font-weight: 700;
+}
+.tour-main-section{
+    margin-top: 100px;
+}
+.tour-main-section img{
+    min-height: 400px;
+}
+.tour-heading{
+    border-bottom: 2px solid lightgray;
+}
+.tour-heading h2{
+    margin-top: 20px;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 50px;
+}
+.booking-card{
+    padding: 10px;
+}
+.tour-content h2{
+    margin-top: 50px;
+    font-weight: 700;
+    text-align: left;
+    margin-left: 50px;
+}

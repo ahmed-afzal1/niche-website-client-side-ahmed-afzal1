@@ -1,0 +1,15 @@
+.form-side{
+    margin-top: 200px;
+}
+
+.btn-color{
+    background-color: #ff5a5f;
+    border: 1px solid #ff5a5f;
+    padding: 10px 60px;
+}
+
+.btn-color:hover{
+    background-color: #ff5a5f;
+    border: 1px solid #ff5a5f;
+    padding: 10px 60px;
+}

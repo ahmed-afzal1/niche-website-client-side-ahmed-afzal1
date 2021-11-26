@@ -1,0 +1,31 @@
+.service{
+    margin-top: 50px;
+}
+.single-service {
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    padding: 50px 41px 30px;
+    position: relative;
+    text-align: center;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    box-shadow: 0 0 50px 0 rgb(19 19 28 / 12%)
+}
+
+.single-service .icon {
+    background-color: #FF5A5F;
+    border-radius: 50%;
+    height: 130px;
+    line-height: 130px;
+    margin: 0 auto;
+    width: 130px;
+    font-size: 40px;
+    color: #fff;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}

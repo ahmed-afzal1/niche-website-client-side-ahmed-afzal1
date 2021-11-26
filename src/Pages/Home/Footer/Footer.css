@@ -1,0 +1,31 @@
+.footer-area{
+    margin-top: 100px;
+    padding: 50px 0;
+    background: #24324A;
+}
+
+.footer-area .footer-info p {
+    color: #fff;
+    margin: 35px 0 20px;
+}
+
+.widget-info h5{
+    color: #fff;
+    font-weight: 700;
+}
+
+.footer-area .contact-box {
+    display: flex;
+    margin-top: 25px;
+    margin-left: 120px;
+}
+
+.footer-area .contact-box a{
+    text-decoration: none;
+}
+
+.category-list li{
+    color: #fff;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
